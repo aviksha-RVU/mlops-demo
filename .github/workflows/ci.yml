@@ -17,4 +17,4 @@ jobs:
 
       - run: pip install scikit-learn
 
-      - run: python train.py
+      - run: python demo.py
